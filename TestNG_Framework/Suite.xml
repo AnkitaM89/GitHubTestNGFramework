@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name = "Ankita">
+<test name = "Reports">
+<classes>
+<class name = "pack1.FirstTestNgClass"></class>
+<class name = "pack1.SecondTestNgClass"></class>
+<class name = "pack1.ThirdTestNgClass"></class>
+</classes>
+</test>
+</suite>
